@@ -17,7 +17,7 @@
     "url": "https://github.com/synapsestudios/synapse-common.git"
   },
   "dependencies" : {
-    "underscore": "~1.7.0"
+    "underscore": "1.7.0"
   },
   "devDependencies": {
     "jest-cli": "~0.1.15"
